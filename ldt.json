@@ -1,0 +1,15 @@
+{
+    "version": "0.0.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Longitudinal-Depression-Toolkit/CLI/releases/download/v0.0.2/ldt_0.0.2_windows_amd64.zip",
+            "bin": [
+                "ldt.exe"
+            ],
+            "hash": "b8b2118e4e72ad9e78b7679e241ba347e8d18f94c38913755268450f3fff7039"
+        }
+    },
+    "homepage": "https://github.com/Longitudinal-Depression-Toolkit/ldt-toolkit",
+    "license": "MIT",
+    "description": "Interactive no-code terminal CLI for the Longitudinal Depression Trajectories toolkit."
+}
