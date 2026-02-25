@@ -1,12 +1,12 @@
 {
-    "version": "0.0.2",
+    "version": "0.0.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Longitudinal-Depression-Toolkit/CLI/releases/download/v0.0.2/ldt_0.0.2_windows_amd64.zip",
+            "url": "https://github.com/Longitudinal-Depression-Toolkit/CLI/releases/download/v0.0.3/ldt_0.0.3_windows_amd64.zip",
             "bin": [
                 "ldt.exe"
             ],
-            "hash": "b8b2118e4e72ad9e78b7679e241ba347e8d18f94c38913755268450f3fff7039"
+            "hash": "3c235f1d5a91936ed6a00506c7b6692c14f0e16fde7e73ffe4c71662259c26db"
         }
     },
     "homepage": "https://github.com/Longitudinal-Depression-Toolkit/ldt-toolkit",
